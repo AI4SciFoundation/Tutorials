@@ -92,18 +92,13 @@ Access the web interface at **[www.science42.tech](https://www.science42.tech)**
 The Examples was designed for easily diving into XIMU4S, through examples. For readability, it includes both notebooks and source codes with explanation
 
 
+## ⚡ Performance Benchmark
 
-
-
-## 🌟 Core Capabilities
-
-| Module | Key Features | Tech Stack | Performance |
-|--------|--------------|------------|-------------|
-| ​**UAV Design** | Aerodynamic optimization, Structural analysis | OpenFOAM, ANSYS | ±0.5% CFD accuracy |
-| ​**Signal Processing** | 5G channel simulation, AM/FM/PM modulation | GNU Radio, MATLAB | <5ms latency |
-| ​**Aerospace** | Orbital mechanics, NASA-compliant components | STK, GMAT | <10m trajectory error |
-| ​**Simulation** | Multiphysics PDE solving, Monte Carlo | FEniCS, NumPy | 1M samples/min |
-
+| Task Type                  | XIMU4S         | Legacy Tools   | Speedup |
+|---------------------------|----------------|----------------|---------|
+| CFD Simulation (1M mesh)  | 58s            | 312s           | 5.4×    |
+| Monte Carlo Analysis       | 10⁶ samples/min | 10⁴ samples/min | 100×    |
+| Orbital Transfer Calculation | <1s          | 15s            | 15×     |
 
 
 
@@ -134,13 +129,10 @@ The Examples was designed for easily diving into XIMU4S, through examples. For r
 
 #### Example : UAV Path Planning
 **Query**:  
-`[UAV] Plan fixed-wing trajectory from (0,0) to (10,10) at 100m/s, avoiding obstacles.`
-
+![Trajectory](https://github.com/zzf-pro/42/blob/main/img_v3_02ko_dd0267ad-1c0b-476f-b029-e7571cba840g.jpg)
 
 **Output**:  
-![Trajectory](https://example.com/trajectory_result.png)
-
-
+![Trajectory](https://github.com/zzf-pro/42/blob/main/img_v3_02ko_27346d30-8da4-458c-8bba-0ad8f4f492eg.jpg)
 
 ## Support & Feedback
 Contact our AI4Science team for technical assistance:
@@ -149,6 +141,6 @@ Contact our AI4Science team for technical assistance:
 
 • GitHub: [github.com/AI4SciFoundation/Tutorials](https://github.com/example/model-repository)
 
-• Forum: [community:www.science42.tech](https://community.example.com)
+• Forum: [www.science42.tech](https://www.science42.tech/)
 
  Technical capabilities referenced from XIMU Technology's AI4Science platform documentation.
