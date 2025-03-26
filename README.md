@@ -147,8 +147,8 @@ Contact our AI4Science team for technical assistance:
 
 • Email: [ximu@science42.tech](mailto:support@example.com)
 
-• GitHub: [github.com/Science42Tech](https://github.com/example/model-repository)
+• GitHub: [github.com/AI4SciFoundation/Tutorials](https://github.com/example/model-repository)
 
-• Forum: [community.science42.tech](https://community.example.com)
+• Forum: [community:www.science42.tech](https://community.example.com)
 
  Technical capabilities referenced from XIMU Technology's AI4Science platform documentation.
