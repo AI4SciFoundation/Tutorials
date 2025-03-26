@@ -145,7 +145,7 @@ The Examples was designed for easily diving into XIMU4S, through examples. For r
 ## Support & Feedback
 Contact our AI4Science team for technical assistance:
 
-• Email: [support@example.com](mailto:support@example.com)
+• Email: [ximu@science42.tech](mailto:support@example.com)
 
 • GitHub: [github.com/Science42Tech](https://github.com/example/model-repository)
 
