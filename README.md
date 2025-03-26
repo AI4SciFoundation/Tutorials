@@ -17,14 +17,14 @@
     
  
 
-4. [User Guide](#user-guide)
+4. [User Guide](#User-Guide)
     
     
-    ◦ [Quick Start](#quick-Start)
+    ◦ Quick Start
 
-    ◦ [Repository Structure](#Repository--Structure)
+    ◦ Repository Structure
     
-    ◦ [Code Examples & Results](#code-examples--results)
+    ◦ Code Examples & Results
 
 5. [Support & Feedback](#support--feedback)
 
