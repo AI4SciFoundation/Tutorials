@@ -5,19 +5,19 @@
 
 2. [Feature Showcase](#feature-showcase)
     
-    ◦ [ Design](design)
+    ◦ Analysis 
+   
+    ◦ Design
+   
+    ◦ Modeling
     
-    ◦ [High Performance Computing](#signal-communication)
-
-    ◦ [Forecasting](#design)
+    ◦ Simulation
     
-    ◦ [Simulation and Modeling](#simulation)
-    
-    ◦ [Engineering](#engineering)
+    ◦ Visualization
     
  
 
-3. [User Guide](#user-guide)
+4. [User Guide](#user-guide)
     
     
     ◦ [Quick Start](#quick-Start)
@@ -26,7 +26,7 @@
     
     ◦ [Code Examples & Results](#code-examples--results)
 
-4. [Support & Feedback](#support--feedback)
+5. [Support & Feedback](#support--feedback)
 
 ## Introduction to XIMU4S
 XIMU4S is an AI-powered scientific assistant developed by [XIMU Technology (Beijing)](https://www.science42.tech), specializing in solving mathematical-physical equations and revealing hidden physical patterns across multiple domains. Designed for researchers, engineers, and academia, it provides professional support in:
@@ -47,14 +47,14 @@ Developed using AI4Science methodologies, it integrates physical principles with
 
 ## Feature Showcase
 
-### UAV Design
+### Design
 • **Aerodynamic Layout Design**: Optimizes wing profiles, fuselage shapes, and tail configurations based on computational fluid dynamics.
 
 • **Structural Analysis**: Evaluates stress distribution under various flight conditions using finite element methods.
 
 • **Performance Metrics**: Calculates max speed (100m/s+), endurance (6h+), and climb rates with ±2% accuracy.
 
-### Signal Communication
+### Modeling
 • **Modulation Schemes**: Implements AM/FM/PM with adaptive SNR optimization.
 
 • **Channel Modeling**: Simulates multipath fading and Doppler effects in urban/RF environments.
