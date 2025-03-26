@@ -156,25 +156,26 @@ The Examples was designed for easily diving into XIMU4S, through examples. For r
 
 
 
+
 # 📂 Repository Structure
 
 ```
 /XIMU4S
 
-├── Aerospace/
-│   ├── trajectory_planner.py       # Fuel-optimal path generation
-│   ├── orbital_mechanics/          # Hohmann transfer calculations
-│   └── nasa_components/            # NASA-standard part libraries
+├── Analysis /
+│   
 │
-├── SignalProcessing/
-│   ├── modulation/                 # Digital communication schemes
-│   ├── channel_simulator.py        # Multipath fading models
-│   └── interference_analysis.ipynb # 5G anti-jamming cases
+├── Design/
+│   
+│
+├── Modeling/
+│   
 │
 ├── Simulation/
-│   ├── monte_carlo/                # Prebuilt probability distributions
-│   ├── control_systems/            # PID controller templates
-│   └── physical_systems/           # Multiphysics PDE solvers
+│   
+│   
+├── Visualization/
+│   
 │
 └── docs/
     └── tutorials/                  # Interactive Jupyter notebooks
