@@ -181,7 +181,7 @@ The Examples was designed for easily diving into XIMU4S, through examples. For r
     └── tutorials/                  # Interactive Jupyter notebooks
 ```
 
-#### Example : UAV Path Planning
+#### Example : Simulation
 **Query**:  
 ![Trajectory](https://github.com/zzf-pro/42/blob/main/img_v3_02ko_dd0267ad-1c0b-476f-b029-e7571cba840g.jpg)
 
