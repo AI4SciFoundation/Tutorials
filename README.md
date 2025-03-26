@@ -17,7 +17,7 @@
     
  
 
-4. [User Guide](#User-Guide)
+3. [User Guide](#User-Guide)
     
     
     ◦ Quick Start
@@ -26,7 +26,7 @@
     
     ◦ Code Examples & Results
 
-5. [Support & Feedback](#support--feedback)
+4. [Support & Feedback](#support--feedback)
 
 ## Introduction to XIMU4S
 XIMU4S is an AI-powered scientific assistant developed by [XIMU Technology (Beijing)](https://www.science42.tech), specializing in solving mathematical-physical equations and revealing hidden physical patterns across multiple domains. Designed for researchers, engineers, and academia, it provides professional support in:
@@ -130,7 +130,7 @@ Developed using AI4Science methodologies, it integrates physical principles with
 
 ---
 
-## 🚦 Quick Start
+## 🚦User Guide
 
 ### How to start
 Access the web interface at **[www.science42.tech](https://www.science42.tech)**
